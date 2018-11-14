@@ -1,0 +1,15 @@
+{
+  "name": "LBPL2",
+  "version": "0.0.2",
+  "description": "Logic based programming language",
+  "main": "src/index.ts",
+  "author": "brecert",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.6"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
+}
